@@ -1,5 +1,8 @@
 import React from "react";
 
+// React quail sample consumption
+// <div className="text-stone-700 leading-relaxed mb-4"  dangerouslySetInnerHTML={{ __html: attributes.property_description }} />
+
 const ProductDetails = () => {
   return (
     <div>
